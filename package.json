@@ -1,0 +1,9 @@
+{
+  "name": "fesd025",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AngularJS course portal project",
+  "scripts": {
+    "start": "npx --yes http-server . -p 8080 -c-1"
+  }
+}
